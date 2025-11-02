@@ -881,10 +881,6 @@ ul {
     text-align: left;
   }
 
-  .card-info .list-paragraph {
-    font-weight: 400;
-  }
-
   .about-us-list {
     flex-direction: row;
     flex-wrap: wrap;
@@ -1000,6 +996,10 @@ ul {
   .about-us-list {
     flex-wrap: nowrap;
     gap: 24px;
+  }
+
+  .list-paragraph {
+    font-weight: 400;
   }
 
   .about-us-list-item {
