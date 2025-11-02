@@ -521,6 +521,10 @@ ul {
   align-items: center;
 }
 
+.subscribe-label {
+  width: 264px;
+}
+
 .subscribe-input {
   width: 100%;
   max-width: 398px;
@@ -840,7 +844,6 @@ ul {
   .address-list {
     display: flex;
     flex-direction: column;
-    gap: 12px;
   }
 
   .address-link {
@@ -878,7 +881,7 @@ ul {
     text-align: left;
   }
 
-  .list-paragraph {
+  .card-info .list-paragraph {
     font-weight: 400;
   }
 
