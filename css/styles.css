@@ -791,6 +791,10 @@ ul {
     max-width: 768px;
   }
 
+  .logo-container {
+    margin-right: 76px;
+  }
+
   .nav-list {
     display: flex;
     gap: 40px;
@@ -961,10 +965,6 @@ ul {
 
   .header {
     height: 72px;
-  }
-
-  .logo-container {
-    margin-right: 76px;
   }
 
   .contacts-list {
